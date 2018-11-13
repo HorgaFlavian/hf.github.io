@@ -1,0 +1,62 @@
+body {
+    background-image: url(../imagini/f.jpg);
+    background-repeat: repeat;
+    
+}
+
+#pagina {
+    width: 1500px;
+    margin: 0px auto;
+}
+
+#scris {
+    color: whitesmoke;
+    text-align:justify
+}
+
+#scris h1{
+    text-align: center;
+    color:wheat
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    color: coral;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+
+
+    
+    
